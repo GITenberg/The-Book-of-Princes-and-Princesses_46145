@@ -1,0 +1,53 @@
+_repo: The-Book-of-Princes-and-Princesses_46145
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ford, H. J. (Henry Justice)
+    alias: Ford, Henry Justice
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '26630'
+    url: http://www.gutenberg.org/2009/agents/26630
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Justice_Ford
+covers:
+- cover_type: archival
+  image_path: 46145-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lang, Mrs.
+    aliases:
+    - Lang, Mrs. Andrew
+    - Lang, Leonora Blanche
+    - Lang, L. B. (Leonora Blanche)
+    gutenberg_agent_id: '32153'
+    url: http://www.gutenberg.org/2009/agents/32153
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2014-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46145'
+  lccn: 08028404
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Princesses'
+- !lcsh 'Princes'
+- !lcsh 'Europe -- Kings and rulers'
+tableOfContents: Napoleon -- His Majesty the King of Rome -- The Princess Jeanne --
+  Hacon the King -- Mi reina! mi reina! -- Henriette the siege baby -- The red rose
+  -- The white rose -- Richard the Fearless -- Frederick and Wilhelmine -- Une reine
+  malheureuse -- The 'little queen' -- Two little girls and their mother -- The troubles
+  of the Princess Elizabeth.
+title: The Book of Princes and Princesses
+url: http://www.gutenberg.org/ebooks/46145
